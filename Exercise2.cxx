@@ -1,3 +1,7 @@
+//Ijedinma rich uchechukwu
+//D1008821
+//cmp2307598
+
 #include <stdio.h> // Include standard input-output header file
 
 int main() {
